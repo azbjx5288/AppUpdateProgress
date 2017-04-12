@@ -7,7 +7,7 @@ import com.zhh.appupdateprogress.R;
 
 
 /**
- * Created by zhh on 2017/4/10.
+ * Created by gcp on 2017/4/10.
  */
 
 public class AppUpdateProgressDialog extends Dialog {
